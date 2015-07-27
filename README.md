@@ -1,2 +1,3 @@
 # Opera
-My first personal Repository to learn
+My first personal Repository to start learning
+Hello Github!
